@@ -1,0 +1,7 @@
+package poo.conceitos_basicos;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
